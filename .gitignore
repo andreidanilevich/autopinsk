@@ -1,0 +1,11 @@
+res/values-v14/
+res/values-v11/
+res/values/styles.xml
+libs/android-support-v4.jar
+gen/
+bin/res/crunch/drawable-xhdpi/autopinsk_icon.png
+bin/
+project.properties
+proguard-project.txt
+.project
+.classpath
